@@ -13,7 +13,7 @@ contract CanadaGooseToken is IERC20 {
 	string public constant name = "Canada Goose Token";
 	uint8 public constant decimals = 18;
 
-	uint256 public constant RATE = 1000000;
+	uint256 public constant RATE = 10000;
 
 	address public owner;
 

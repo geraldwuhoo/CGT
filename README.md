@@ -8,7 +8,7 @@ The newest revolution in blockchain technology using the Ethereum blockchain pro
 CGT is an anonymous, decentralized, peer-verified, tamper-proof ERC20 token. Our final goal is to achieve a 1:1 ratio of 1 CGT to 1 physical Canada Goose jacket.
 
 ## How can I obtain CGT?
-The ICO will begin on the start of Brown University's  Spring 2018 semester - January 24, 2018. The ICO price will be `1 ETH = 1,000,000 CGT`. More information will be released as the ICO date approaches.
+The ICO will begin on the start of Brown University's  Spring 2018 semester - January 24, 2018. The ICO price will be `1 ETH = 10,000 CGT`. More information will be released as the ICO date approaches.
 
 After the ICO, users may still "mine" CGT through a cookie-clicker like webapp, in which the user's computer hardware is utilized to mine ETH. This ETH is transferred to the ERC20 smart contract address, where the equivalent CGT is then sent to the user's wallet.
 
