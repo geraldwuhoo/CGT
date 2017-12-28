@@ -3,7 +3,7 @@
 ![Crypto Goose Token Logo](logo/CGT.png)
 
 ## What is Crypto Goose Token (CGT)?
-The newest revolution in blockchain technology using the Ethereum blockchain protocol. By running on top of the Ethereum blockchain, we offer a decentralized approach to flaunting one's Goose wealth using a virtual cryptocurrency, Crypto Goose Token (CGT).
+The newest revolution in blockchain technology using the Ethereum blockchain protocol. By running on top of the Ethereum blockchain, we offer a decentralized approach to flaunting one's wealth using a virtual cryptocurrency, Crypto Goose Token (CGT).
 
 CGT is an anonymous, decentralized, peer-verified, tamper-proof ERC20 token. Our final goal is to achieve a 1:1 ratio of 1 CGT to 1 physical Canada Goose TM jacket.
 
