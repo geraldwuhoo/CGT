@@ -1,5 +1,3 @@
-# Crypto Goose Token
-
 ![Crypto Goose Token Logo](logo/CGT.png)
 
 ## What is Crypto Goose Token (CGT)?
