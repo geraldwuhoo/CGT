@@ -9,8 +9,8 @@ contract CryptoGooseToken is IERC20 {
 
 	uint public _totalSupply = 1000000000000000000000000;
 
-	string public constant symbol = "GST";
-	string public constant name = "Goose Token";
+	string public constant symbol = "CGT";
+	string public constant name = "Crypto Goose Token";
 	uint8 public constant decimals = 18;
 
 	uint256 public constant RATE = 10000;
