@@ -3,7 +3,7 @@ pragma solidity ^0.4.19;
 import './IERC20.sol';
 import './SafeMath.sol';
 
-contract GooseToken is IERC20 {
+contract CryptoGooseToken is IERC20 {
 
 	using SafeMath for uint256;
 
@@ -25,7 +25,7 @@ contract GooseToken is IERC20 {
 		createTokens();
 	}
 
-	function GooseToken()
+	function CryptoGooseToken()
 	{
 		owner = msg.sender;
 		balances[msg.sender] = _totalSupply;
