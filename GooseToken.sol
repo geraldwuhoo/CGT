@@ -3,14 +3,14 @@ pragma solidity ^0.4.19;
 import './IERC20.sol';
 import './SafeMath.sol';
 
-contract CanadaGooseToken is IERC20 {
+contract GooseToken is IERC20 {
 
 	using SafeMath for uint256;
 
 	uint public _totalSupply = 1000000000000000000000000;
 
-	string public constant symbol = "CGT";
-	string public constant name = "Canada Goose Token";
+	string public constant symbol = "GST";
+	string public constant name = "Goose Token";
 	uint8 public constant decimals = 18;
 
 	uint256 public constant RATE = 10000;
@@ -25,7 +25,7 @@ contract CanadaGooseToken is IERC20 {
 		createTokens();
 	}
 
-	function CanadaGooseToken()
+	function GooseToken()
 	{
 		owner = msg.sender;
 		balances[msg.sender] = _totalSupply;
